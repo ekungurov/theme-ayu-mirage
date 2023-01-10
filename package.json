@@ -1,6 +1,6 @@
 {
-  "name": "@konodyuk/theme-ayu-mirage",
-  "version": "0.3.0",
+  "name": "@ekungurov/theme-ayu-mirage",
+  "version": "0.3.1",
   "description": "Ayu Mirage for JupyterLab.",
   "author": "Nikita Konodyuk <konodyuk@gmail.com>",
   "keywords": [
@@ -54,12 +54,12 @@
     "extension": true,
     "themePath": "style/index.css"
   },
-  "homepage": "https://github.com/konodyuk/theme-ayu-mirage",
+  "homepage": "https://github.com/ekungurov/theme-ayu-mirage",
   "bugs": {
-    "url": "https://github.com/konodyuk/theme-ayu-mirage/issues"
+    "url": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/konodyuk/theme-ayu-mirage.git"
+    "url": "https://github.com/ekungurov/theme-ayu-mirage.git"
   }
 }

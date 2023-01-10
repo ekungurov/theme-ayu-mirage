@@ -9,10 +9,10 @@ import { IThemeManager } from '@jupyterlab/apputils';
  * A plugin for konodyuk/theme-ayu-mirage
  */
 const plugin: JupyterFrontEndPlugin<void> = {
-  id: '@konodyuk/theme-ayu-mirage:plugin',
+  id: '@ekungurov/theme-ayu-mirage:plugin',
   requires: [IThemeManager],
   activate: function(app: JupyterFrontEnd, manager: IThemeManager) {
-    const style = '@konodyuk/theme-ayu-mirage/index.css';
+    const style = '@ekungurov/theme-ayu-mirage/index.css';
 
     manager.register({
       name: 'Ayu Mirage',
